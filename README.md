@@ -78,10 +78,10 @@ NMIMS University
 ## Let's Connect
 
 LinkedIn:
-(your LinkedIn URL)
+https://www.linkedin.com/in/shantanugupta99/
 
 Portfolio:
-(your Framer URL)
+https://shantanugupta.framer.ai/
 
 Game Portfolio:
 https://shantanusgames.itch.io
