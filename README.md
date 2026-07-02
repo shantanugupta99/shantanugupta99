@@ -1,87 +1,32 @@
 # Hi, I'm Shantanu Gupta 👋
 
-I'm a Research Analyst with a background in UX Research, Product Research, Consumer Insights, and Product Analytics.
+I'm a Research Analyst with interests in Product Research, UX Research, Consumer Insights, and Product Analytics.
 
-I enjoy understanding why people behave the way they do and translating research into product decisions that improve user experiences.
+I enjoy understanding why people behave the way they do and using research and analytics to help teams build products that are intuitive, trustworthy, and user-centered.
 
-My work spans AI-powered products, behavioral research, game design, and data-driven product strategy.
-
----
-
-## Areas of Interest
+## Areas of Focus
 
 - Product Research
 - UX Research
-- Consumer Insights
 - Product Analytics
+- Consumer Insights
 - Behavioral Research
 - AI Product Evaluation
-- Game User Research
 
----
+## Featured Work
 
-## Featured Projects
+📄 Building Trust in AI-Powered Interview Experiences
 
-### Building Trust in AI-Powered Interview Experiences
-Professional product research exploring user trust, onboarding, and AI-generated feedback.
+📄 Designing Cooperative Experiences Through Behavioral Research
 
-### Designing Cooperative Experiences Through Behavioral Research
-Published mixed-methods research investigating teamwork, communication, and cooperative game design.
+📊 Product Analytics Portfolio *(Coming Soon)*
 
-### Product Analytics (In Progress)
-Analyzing player behavior and product performance using SQL, Tableau, and data visualization.
+🎮 Game Development Portfolio
 
----
+## Connect
 
-## Technical Skills
+🌐 Portfolio: https://shantanugupta.framer.ai/
 
-**Research**
+💼 LinkedIn: https://www.linkedin.com/in/shantanugupta99/
 
-- Product Research
-- UX Research
-- Competitive Analysis
-- Consumer Insights
-- Mixed-Methods Research
-- Survey Design
-- Behavioral Observation
-
-**Analytics**
-
-- SQL
-- Tableau
-- Power BI
-- Excel
-- Google Sheets
-
-**Programming**
-
-- Python
-- R
-- C#
-- Unity
-
----
-
-## Education
-
-**M.S. Game Science & Design**
-Northeastern University
-
-**MBA Technology Management**
-NMIMS University
-
-**B.Tech Computer Engineering**
-NMIMS University
-
----
-
-## Let's Connect
-
-LinkedIn:
-https://www.linkedin.com/in/shantanugupta99/
-
-Portfolio:
-https://shantanugupta.framer.ai/
-
-Game Portfolio:
-https://shantanusgames.itch.io
+🎮 itch.io: https://shantanusgames.itch.io
