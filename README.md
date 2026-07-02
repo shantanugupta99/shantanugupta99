@@ -1,4 +1,4 @@
-# Hi, I'm Shantanu Gupta 👋
+# Hi, I'm Shaan Gupta 👋
 
 I'm a Research Analyst with interests in Product Research, UX Research, Consumer Insights, and Product Analytics.
 
